@@ -145,5 +145,3 @@ The developed system brings value to both **Airbnb** and its **hosts**.
 - Dataset: [Inside Airbnb](http://insideairbnb.com/get-the-data/)  
 - Tools: Tableau, Pentaho, PostgreSQL, Python (Scikit-learn, Statsmodels)  
 - Project Guidelines: *University of Coimbra – Business Intelligence 2023/24*
-
----
